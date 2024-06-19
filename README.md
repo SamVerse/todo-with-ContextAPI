@@ -11,4 +11,3 @@ Currently, two official plugins are available:
 # todo-with-ContextAPI
 Made a TODO with the help of context API while learning REACT.
 (MINOR PROJECT)
->>>>>>> 99ccf39f992691ec738a8a8a5b1c71f0bc57c1cb
